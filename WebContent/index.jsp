@@ -9,7 +9,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Moredno Html theme by GraphBerry.com</title>
+	<title>My Profile</title>
 
 	<!-- Load fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
@@ -55,10 +55,12 @@
 						<td><h1>Md. Rakib Hasan</h1></td>
 					</tr>
 				</table>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,<br> sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua.
+				<p>I have completed my graduation from Jahangirnagar University ,<br>
+				My major was Computer Science & Engineering , I love programming and problem solving .<br/>
+				Currently I am learning Java Spring , JSP and developing desktop applications using core Java .
+			
 				</p>
-				<a href="#" class="btn btn-primary">Get in Touche</a>
+				<a href="#" class="btn btn-primary">Get in Touch</a>
 			</div>
 		</div>
 	</div>
@@ -102,17 +104,16 @@
 	<section id="portfolio" class="darker">
 		<div class="container">
 			<header>
-				<h2>Success Stories</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor.
+				<h2>My Projects</h2>
+				<p>Currently i am working on some projects those are given below :
 				</p>
 			</header>
 			<div id="single-project"></div>
 			<div class="row">
 				<figure class="portfolio-item col-md-4 col-sm-6" >
-					<img class="img-responsive" src="img/projects/project-thumbnail-1.png" alt="Adena icons pack" />
+					<img class="img-responsive" src="img/projects/zipper.png" alt="Adena icons pack" />
 					<figcaption class="mask">
-						<a href="projects/project-1.html">
+						<a href="projects/project-1.jsp">
 							<i class="glyphicon glyphicon-plus"></i>
 						</a>
 					</figcaption>
